@@ -1,5 +1,5 @@
 [package]
-name = "timingCloseApp"
+name = "timing-close-app"
 version = "0.1.0"
 edition = "2021"
 
